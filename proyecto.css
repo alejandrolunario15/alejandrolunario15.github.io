@@ -1,0 +1,70 @@
+body{
+    background-color: beige;
+    width: 82%;
+    margin: auto;
+}
+img{
+    width: 260px;
+    height: 340px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 10px 10px 15px rgb(169, 187, 184);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h1{
+    color: rgb(67, 65, 65);
+    font-size: 21px;
+    text-align: center;
+}
+h3{
+    color: rgb(67, 65, 65);
+    font-size: 18px;
+    text-align: center; 
+}
+h2{
+    color: rgb(165, 39, 39);
+    font-size: 20px;
+}
+p{
+    color: rgb(48, 100, 106);
+    font-size: 17px;
+    text-align: justify;
+}
+th{
+    color: tomato;
+    border: orange solid;
+}
+td{
+    color: rgb(50, 123, 83);
+    border: orange solid;
+}
+.ti{
+    width: 540px;
+    height: 340px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 10px 10px 15px rgb(169, 187, 184);
+}
+.to{
+    width: 540px;
+    height: 340px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 10px 10px 15px rgb(169, 187, 184);
+    margin-bottom: 30px;
+}
+.go{
+    width: 540px;
+    height: 340px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 10px 10px 15px rgb(169, 187, 184);
+}
+.dt{
+    width: 540px;
+    height: 340px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 10px 10px 15px rgb(169, 187, 184);
+}
